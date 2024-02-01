@@ -1,3 +1,4 @@
+![٢٠٢٤٠١٢٧_١٥٣٨١٠](https://github.com/npm/cli/assets/153218963/3b3ffe6b-1bb4-4a8b-9c40-8481ac2a1c49)
 ---
 title: install
 section: 5
